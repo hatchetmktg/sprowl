@@ -26,10 +26,37 @@ footer address{
 
 /* Hero Section*/
 #hero{
-    background: url('../img/oldcouple.jpg') no-repeat center center;
+    background: url('/img/oldcouple.jpg') no-repeat center center;
     background-size: cover; 
-    height: 80%;
+    height: 20%;
     display: flex;
     align-items: center;
 }
 /*End Hero Section*/
+#section a{
+    color: black;
+}
+#section ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+/*Section */
+#section h2{
+    color: blue;
+}
+#section a{
+   color: blue; 
+}
+/*End Section */
+
+/* CTA*/
+#cta{
+    background: url('/img/oldcouple.jpg') no-repeat center center;
+    background-size: cover;
+    height: 20%;
+    display: flex;
+    align-items: center;
+}
+/*End CTA */
