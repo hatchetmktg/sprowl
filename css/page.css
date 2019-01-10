@@ -1,0 +1,35 @@
+/* Global */
+html, body{
+    height: 100%;
+}
+
+.spacer{
+    padding: 80px 0;
+}
+
+footer{
+    color: white; 
+    padding: 40px 15px;  
+}
+footer a{
+    color: white; 
+}
+footer ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+footer address{
+    margin: 0px;
+}
+/* End Global Sytles */
+
+/* Hero Section*/
+#hero{
+    background: url('../img/oldcouple.jpg') no-repeat center center;
+    background-size: cover; 
+    height: 80%;
+    display: flex;
+    align-items: center;
+}
+/*End Hero Section*/
