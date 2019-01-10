@@ -1,0 +1,82 @@
+
+/* Global */
+html, body{
+    height: 100%;
+}
+
+.spacer{
+    padding: 80px 0;
+}
+
+footer{
+    color: white; 
+    padding: 40px 15px;  
+}
+footer a{
+    color: white; 
+}
+footer ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+footer address{
+    margin: 0px;
+}
+/* End Global Sytles */
+
+/* Hero Section*/
+#hero{
+    background: url('../img/oldcouple.jpg') no-repeat center center;
+    background-size: cover; 
+    height: 80%;
+    display: flex;
+    align-items: center;
+}
+/*End Hero Section*/
+
+/* Services */
+
+#services img{
+    margin-bottom: 25px;
+}
+
+#services h2{
+    margin-bottom: 0
+}
+
+/* End Services */
+
+
+/* obituaires */
+
+#obituaires h3{
+    margin-bottom: 25px;
+}
+
+/* End Obituaries */
+
+/*Process Section*/
+
+#process{
+    color: white;
+}
+
+.grief-support{
+    background: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)), url('../img/oldcouple.jpg') no-repeat center center;
+    background-size: cover; 
+    min-height:300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.faq{
+    background:linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)), url('../img/oldcouple.jpg') no-repeat center center;
+    background-size: cover; 
+    min-height:300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/*End Process Section*/
